@@ -1,0 +1,36 @@
+/* 
+.input option{
+display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 3px solid beige;
+    font-size: 20px;
+    margin-top: 40px;
+    min-width: 70vh;
+    border-radius: 10px;
+    padding: 10px;
+}\ */
+select{
+    font-size: 20px;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 10px;
+    margin-right: 10px;
+}
+textarea{
+    margin-top: 20px;
+    text-align: center;
+    padding: 10px;
+    font-size: 23px;
+}
+.input button{
+    font-size: 24px;
+    border: 1px solid blue;
+    background: blue;
+    color: white;
+    min-width: 70vh;
+    text-align: center;
+    border-radius: 20px;
+    margin-top: 40px;
+    padding: 10px;
+}
